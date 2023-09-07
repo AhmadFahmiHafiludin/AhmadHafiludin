@@ -1,0 +1,70 @@
+#header {width: 100%;
+    font: bold;
+    font-size: xx-large;
+height: 30%;
+background-color: chartreuse;
+color: rgb(10, 75, 16);
+text-align: center;
+padding: 5px;
+}
+
+#Nav-menu {
+    text-align: left;
+    background-color: gold;
+    width: 98.3%;
+    height: 30%;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+#Nav-menu a {
+    color: blue;
+    padding: 5px;
+    text-decoration: none;
+}
+
+#content {
+    background-color: white;
+    width: 89.6%;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 20px;
+    margin-left: 8%;
+}
+
+#sidbar {
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    background-color: chartreuse;
+    position: fixed;
+    height: 60%;
+    overflow: hidden;
+  }
+
+  #sidbar a {
+    display: block;
+    color: rgb(57, 65, 60);
+    padding: 16px;
+    text-decoration: none;
+  }
+
+#contentleft {
+    background-color: white;
+    text-align: left;
+    width: 89.6%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    margin-left: 8%;
+}
+
+#footer {
+    background-color: antiquewhite;
+    margin-left: 8%;
+    text-align: center;
+    padding: 0%;
+    width: 93%;
+}
